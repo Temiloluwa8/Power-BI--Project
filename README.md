@@ -83,3 +83,16 @@ Overall, it provides a clear, data-driven view to support better workforce plann
 #### Overall Insight:
 > There is a noticeable gap in leadership diversity and an opportunity to improve female representation in senior roles.
 
+## Data Visualization :
+
+
+![Diversion and inclusion](https://github.com/user-attachments/assets/cfb068e2-399f-4e23-bf03-62b230fa05ca)
+
+
+
+
+
+
+
+
+
