@@ -10,3 +10,24 @@ _This report gives us an insight about Customer Retention and Churn Analysis_
 
 ## Data Source:
 + www.pwc.com
+
+## Tools Used:
+### Power BI:
+      1. used to collect and organize the customer data.
+      2. used to create charts, filters, and summaries to understand churn.
+      3. used to create dashboard that helps the team see problems and make better decisions to keep customers.
+
+ ## Data Overview
+ The dataset includes the following columns:
+>+ The Customer Retention dataset contains information on 7,043 customers of PhoneNow Call Center.
+>+ Key fields include customer demographics (gender, marital status, dependents), account information (contract type, payment method, tenure, services used), and customer status (active or churned).
+>+ Revenue-related data such as monthly charges and total charges are also captured to understand customer value.
+>+ The dataset highlights service factors like internet type, tech support availability, and phone services, which directly impact customer retention.
+>+ Target variable for analysis is the Churn Status, helping to identify drivers of customer loss.
+>+ This data forms the foundation for actionable insights aimed at improving loyalty, reducing churn, and boosting overall revenue growth.
+
+
+
+
+
+
