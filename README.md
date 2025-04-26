@@ -29,8 +29,6 @@ _This report gives us an insight about Customer Retention and Churn Analysis_
 
 ## Data Visualization 
 
-
-
-
+![pwc call center](https://github.com/user-attachments/assets/dfa38100-0d81-42ca-949e-198b19b5bde8)
 
 
