@@ -50,14 +50,17 @@ The dashboard highlights key gaps in leadership diversity and identifies areas f
 Overall, it provides a clear, data-driven view to support better workforce planning and inclusion efforts.
 
 
+---
 ## Data Source:
 + www.pwc.com
+
 ## Tools Used:
 ### Power BI:
     1. used to organize the data, create calculations with DAX, and build easy-to-read charts.
     2. helped to track employee gender, promotions, and people leaving the company.
     3. used to connect, clean, and model the employee data for analysis.
     4. create dashboard that shows important diversity and retention trends clearly.
+ 
  ## Data Overview
  The dataset includes the following columns:
 >+ The dataset contains employee information such as gender, age group, department, job level, promotion status, and turnover status.
@@ -89,6 +92,48 @@ Overall, it provides a clear, data-driven view to support better workforce plann
 ![Diversion and inclusion](https://github.com/user-attachments/assets/cfb068e2-399f-4e23-bf03-62b230fa05ca)
 
 
+---
+
+
+## PWC_Call_Center
+This report shows strong call handling performance, with 81% of calls answered and 73% successfully resolved, while highlighting opportunities to improve service on high-volume topics like technical support and streaming.
+## Project Overview
+> The PWC Call Center Dashboard provides a full view of call center performance by tracking total calls, answer rates, and resolution rates.It highlights the top agents based on resolved calls and identifies the main issues customers call about, such as streaming and technical support.Power BI was used to clean the data, apply DAX formulas for key metrics, and design interactive visuals for easy analysis.The dashboard helps the management team quickly find service gaps, improve agent performance, and boost customer satisfaction.
+Overall, it serves as an important tool for making better, faster decisions in call center operations.
+> ## Data Source:
++ www.pwc.com
+## Tools Used:
+### Power BI:
+       1. Power BI was used to clean and organize the call center data.
+       2. It created DAX calculations to measure answered calls, resolved calls, and agent performance.
+       3. Interactive visuals were built to track call trends and highlight service improvement areas.
+## Data Overview
+ The dataset includes the following columns:
+>+ The dataset contains detailed records of call center activities, including total calls, answered calls, unanswered calls, resolved calls, and unresolved calls.
+>+ It also captures information on call topics such as technical support, billing, and streaming services.
+>+ Agent performance data is included to track the number of issues handled and resolved by each agent.
+>+ The data helps identify service gaps, customer pain points, and opportunities to improve call center efficiency.
+>+ Overall, it provides a full view of call center operations to support better decision-making and customer service improvements.
+
+
+---
+## Analysis Breakdown
+#### Call Performance:
+81% of all incoming calls were answered, and 73% of those were successfully resolved.
+
+#### Agent Performance:
+Top-performing agents had higher call resolution rates, showing strong handling of customer issues.
+
+#### Issue Breakdown:
+The most common call topics were technical support and streaming issues, highlighting key service areas needing attention.
+
+#### Unanswered and Unresolved Calls:
+A significant number of calls remained unanswered or unresolved, indicating a need for better staffing or training during peak times.
+
+#### Overall Insight:
+The dashboard shows strong call center operations but reveals opportunities to improve service on high-demand topics and boost overall resolution rates.
+
+## Data Visualization :
 
 
 
