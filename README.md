@@ -26,6 +26,25 @@ _This report gives us an insight about Customer Retention and Churn Analysis_
 >+ Target variable for analysis is the Churn Status, helping to identify drivers of customer loss.
 >+ This data forms the foundation for actionable insights aimed at improving loyalty, reducing churn, and boosting overall revenue growth.
 
+---
+## Analysis Breakdown
+#### Churn Rate:
+> 27% of customers have churned, while 73% are retained, showing room for improvement in customer loyalty.
+
+#### Contract Type Impact:
+> Customers on month-to-month contracts have the highest churn rates compared to those on one-year and two-year contracts.
+
+#### Payment Method Influence:
+> Customers using electronic checks churn more often than those using credit cards, mailed checks, or bank transfers.
+
+#### Service Factors:
+> Lack of tech support and use of fiber optic internet are strongly linked to higher churn rates.
+
+#### Customer Tenure:
+> New customers and very long-term customers show higher churn rates, suggesting gaps in onboarding and long-term engagement strategies.
+
+
+---
 
 ## Data Visualization 
 
@@ -86,7 +105,11 @@ Overall, it provides a clear, data-driven view to support better workforce plann
 #### Overall Insight:
 > There is a noticeable gap in leadership diversity and an opportunity to improve female representation in senior roles.
 
+
+---
+
 ## Data Visualization :
+
 
 
 ![Diversion and inclusion](https://github.com/user-attachments/assets/cfb068e2-399f-4e23-bf03-62b230fa05ca)
@@ -97,9 +120,11 @@ Overall, it provides a clear, data-driven view to support better workforce plann
 
 ## PWC_Call_Center
 This report shows strong call handling performance, with 81% of calls answered and 73% successfully resolved, while highlighting opportunities to improve service on high-volume topics like technical support and streaming.
+
 ## Project Overview
 > The PWC Call Center Dashboard provides a full view of call center performance by tracking total calls, answer rates, and resolution rates.It highlights the top agents based on resolved calls and identifies the main issues customers call about, such as streaming and technical support.Power BI was used to clean the data, apply DAX formulas for key metrics, and design interactive visuals for easy analysis.The dashboard helps the management team quickly find service gaps, improve agent performance, and boost customer satisfaction.
 Overall, it serves as an important tool for making better, faster decisions in call center operations.
+
 > ## Data Source:
 + www.pwc.com
 ## Tools Used:
@@ -107,6 +132,7 @@ Overall, it serves as an important tool for making better, faster decisions in c
        1. Power BI was used to clean and organize the call center data.
        2. It created DAX calculations to measure answered calls, resolved calls, and agent performance.
        3. Interactive visuals were built to track call trends and highlight service improvement areas.
+
 ## Data Overview
  The dataset includes the following columns:
 >+ The dataset contains detailed records of call center activities, including total calls, answered calls, unanswered calls, resolved calls, and unresolved calls.
@@ -119,20 +145,22 @@ Overall, it serves as an important tool for making better, faster decisions in c
 ---
 ## Analysis Breakdown
 #### Call Performance:
-81% of all incoming calls were answered, and 73% of those were successfully resolved.
+> 81% of all incoming calls were answered, and 73% of those were successfully resolved.
 
 #### Agent Performance:
-Top-performing agents had higher call resolution rates, showing strong handling of customer issues.
+> Top-performing agents had higher call resolution rates, showing strong handling of customer issues.
 
 #### Issue Breakdown:
-The most common call topics were technical support and streaming issues, highlighting key service areas needing attention.
+> The most common call topics were technical support and streaming issues, highlighting key service areas needing attention.
 
 #### Unanswered and Unresolved Calls:
-A significant number of calls remained unanswered or unresolved, indicating a need for better staffing or training during peak times.
+> A significant number of calls remained unanswered or unresolved, indicating a need for better staffing or training during peak times.
 
 #### Overall Insight:
-The dashboard shows strong call center operations but reveals opportunities to improve service on high-demand topics and boost overall resolution rates.
+> The dashboard shows strong call center operations but reveals opportunities to improve service on high-demand topics and boost overall resolution rates.
 
+
+---
 ## Data Visualization :
 
 
