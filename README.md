@@ -58,7 +58,11 @@ _This report gives us an insight about Customer Retention and Churn Analysis_
 
 
 
----
+
+
+
+
+
 
 ## Conclusion 
 > The Customer Retention Dashboard reveals key factors driving customer churn, such as contract type, payment method, and lack of tech support.
@@ -123,7 +127,9 @@ Overall, it provides a clear, data-driven view to support better workforce plann
 ![Diversion and inclusion](https://github.com/user-attachments/assets/cfb068e2-399f-4e23-bf03-62b230fa05ca)
 
 
----
+
+
+
 
 ## Conclusion 
 > The Diversity and Inclusion Dashboard uncovers gaps in gender balance at senior job levels and differences in promotion and turnover rates.
@@ -184,7 +190,10 @@ Overall, it serves as an important tool for making better, faster decisions in c
 ![pwc](https://github.com/user-attachments/assets/6c16036d-5501-4ea2-8e44-f46f62e4c50d)
 
 
----
+
+
+
+
 
 ## Conclusion 
 >The PWC Call Center Dashboard highlights strong call answering and resolution rates but identifies service gaps in areas like streaming and technical support.
